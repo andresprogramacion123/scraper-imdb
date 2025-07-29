@@ -2,6 +2,9 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
+# Crear directorio de salida para archivos generados
+RUN mkdir -p /app/output
+
 # Instala netcat (versión openbsd) y dependencias de Python
 RUN apt-get update && \
     apt-get install -y netcat-openbsd && \
