@@ -1,1 +1,752 @@
-[]
+[
+  {
+    "Título": "The Shawshank Redemption",
+    "Año": "1995-03-02",
+    "Calificación": 9.3,
+    "Duración (min)": 142,
+    "Metascore": "82",
+    "Actores": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "url": "https://www.imdb.com/title/tt0111161/",
+    "genre": "Drama",
+    "description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion."
+  },
+  {
+    "Título": "The Godfather",
+    "Año": "1972-09-28",
+    "Calificación": 9.2,
+    "Duración (min)": 175,
+    "Metascore": "100",
+    "Actores": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "url": "https://www.imdb.com/title/tt0068646/",
+    "genre": "Crime, Drama",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "Título": "The Dark Knight",
+    "Año": "2008-07-24",
+    "Calificación": 9.1,
+    "Duración (min)": 152,
+    "Metascore": "85",
+    "Actores": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "url": "https://www.imdb.com/title/tt0468569/",
+    "genre": "Action, Crime, Drama",
+    "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+  },
+  {
+    "Título": "The Godfather Part II",
+    "Año": "1975-07-17",
+    "Calificación": 9,
+    "Duración (min)": 202,
+    "Metascore": "90",
+    "Actores": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "url": "https://www.imdb.com/title/tt0071562/",
+    "genre": "Crime, Drama",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+    "Título": "12 Angry Men",
+    "Año": "1957-10-25",
+    "Calificación": 9,
+    "Duración (min)": 96,
+    "Metascore": "97",
+    "Actores": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "url": "https://www.imdb.com/title/tt0050083/",
+    "genre": "Crime, Drama",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+  },
+  {
+    "Título": "The Lord of the Rings: The Return of the King",
+    "Año": "2003-12-17",
+    "Calificación": 9,
+    "Duración (min)": 201,
+    "Metascore": "94",
+    "Actores": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "url": "https://www.imdb.com/title/tt0167260/",
+    "genre": "Adventure, Drama, Fantasy",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron&apos;s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+  },
+  {
+    "Título": "Schindler&apos;s List",
+    "Año": "1994-03-03",
+    "Calificación": 9,
+    "Duración (min)": 195,
+    "Metascore": "95",
+    "Actores": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "url": "https://www.imdb.com/title/tt0108052/",
+    "genre": "Biography, Drama, History",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  },
+  {
+    "Título": "Pulp Fiction",
+    "Año": "1994-12-01",
+    "Calificación": 8.8,
+    "Duración (min)": 154,
+    "Metascore": "95",
+    "Actores": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "url": "https://www.imdb.com/title/tt0110912/",
+    "genre": "Crime, Drama",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "Título": "The Lord of the Rings: The Fellowship of the Ring",
+    "Año": "2001-12-19",
+    "Calificación": 8.9,
+    "Duración (min)": 178,
+    "Metascore": "92",
+    "Actores": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "url": "https://www.imdb.com/title/tt0120737/",
+    "genre": "Adventure, Drama, Fantasy",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+  },
+  {
+    "Título": "Il buono, il brutto, il cattivo",
+    "Año": "1968-02-08",
+    "Calificación": 8.8,
+    "Duración (min)": 161,
+    "Metascore": "90",
+    "Actores": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "url": "https://www.imdb.com/title/tt0060196/",
+    "genre": "Adventure, Drama, Western",
+    "description": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+  },
+  {
+    "Título": "Forrest Gump",
+    "Año": "1994-09-22",
+    "Calificación": 8.8,
+    "Duración (min)": 142,
+    "Metascore": "82",
+    "Actores": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "url": "https://www.imdb.com/title/tt0109830/",
+    "genre": "Drama, Romance",
+    "description": "The history of the United States from the 1950s to the &apos;70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+  },
+  {
+    "Título": "The Lord of the Rings: The Two Towers",
+    "Año": "2002-12-18",
+    "Calificación": 8.8,
+    "Duración (min)": 179,
+    "Metascore": "87",
+    "Actores": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "url": "https://www.imdb.com/title/tt0167261/",
+    "genre": "Adventure, Drama, Fantasy",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron&apos;s new ally, Saruman, and his hordes of Isengard."
+  },
+  {
+    "Título": "Fight Club",
+    "Año": "1999-11-04",
+    "Calificación": 8.8,
+    "Duración (min)": 139,
+    "Metascore": "67",
+    "Actores": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
+    "url": "https://www.imdb.com/title/tt0137523/",
+    "genre": "Crime, Drama, Thriller",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "Título": "Inception",
+    "Año": "2010-07-22",
+    "Calificación": 8.8,
+    "Duración (min)": 148,
+    "Metascore": "74",
+    "Actores": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "url": "https://www.imdb.com/title/tt1375666/",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+  },
+  {
+    "Título": "Star Wars: Episode V - The Empire Strikes Back",
+    "Año": "1980-12-18",
+    "Calificación": 8.7,
+    "Duración (min)": 124,
+    "Metascore": "82",
+    "Actores": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "url": "https://www.imdb.com/title/tt0080684/",
+    "genre": "Action, Adventure, Fantasy",
+    "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy."
+  },
+  {
+    "Título": "The Matrix",
+    "Año": "1999-06-17",
+    "Calificación": 8.7,
+    "Duración (min)": 136,
+    "Metascore": "73",
+    "Actores": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "url": "https://www.imdb.com/title/tt0133093/",
+    "genre": "Action, Sci-Fi",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+  },
+  {
+    "Título": "GoodFellas",
+    "Año": "1990-11-02",
+    "Calificación": 8.7,
+    "Duración (min)": 145,
+    "Metascore": "92",
+    "Actores": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "url": "https://www.imdb.com/title/tt0099685/",
+    "genre": "Biography, Crime, Drama",
+    "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+  },
+  {
+    "Título": "Interstellar",
+    "Año": "2014-11-06",
+    "Calificación": 8.7,
+    "Duración (min)": 169,
+    "Metascore": "74",
+    "Actores": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "url": "https://www.imdb.com/title/tt0816692/",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+  },
+  {
+    "Título": "One Flew Over the Cuckoo&apos;s Nest",
+    "Año": "1976-04-15",
+    "Calificación": 8.7,
+    "Duración (min)": 133,
+    "Metascore": "84",
+    "Actores": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman"
+    ],
+    "url": "https://www.imdb.com/title/tt0073486/",
+    "genre": "Drama",
+    "description": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse."
+  },
+  {
+    "Título": "Se7en",
+    "Año": "1995-11-09",
+    "Calificación": 8.6,
+    "Duración (min)": 127,
+    "Metascore": "65",
+    "Actores": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "url": "https://www.imdb.com/title/tt0114369/",
+    "genre": "Crime, Drama, Mystery",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+  },
+  {
+    "Título": "It&apos;s a Wonderful Life",
+    "Año": "1948-04-02",
+    "Calificación": 8.6,
+    "Duración (min)": 130,
+    "Metascore": "89",
+    "Actores": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore"
+    ],
+    "url": "https://www.imdb.com/title/tt0038650/",
+    "genre": "Drama, Family, Fantasy",
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+  },
+  {
+    "Título": "The Silence of the Lambs",
+    "Año": "1991-04-12",
+    "Calificación": 8.6,
+    "Duración (min)": 118,
+    "Metascore": "86",
+    "Actores": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "url": "https://www.imdb.com/title/tt0102926/",
+    "genre": "Crime, Drama, Horror",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+  },
+  {
+    "Título": "Shichinin no samurai",
+    "Año": "1954-04-26",
+    "Calificación": 8.6,
+    "Duración (min)": 207,
+    "Metascore": "98",
+    "Actores": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "url": "https://www.imdb.com/title/tt0047478/",
+    "genre": "Action, Drama",
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him."
+  },
+  {
+    "Título": "Saving Private Ryan",
+    "Año": "1998-09-17",
+    "Calificación": 8.6,
+    "Duración (min)": 169,
+    "Metascore": "91",
+    "Actores": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "url": "https://www.imdb.com/title/tt0120815/",
+    "genre": "Drama, War",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action."
+  },
+  {
+    "Título": "The Green Mile",
+    "Año": "2000-03-09",
+    "Calificación": 8.6,
+    "Duración (min)": 189,
+    "Metascore": "61",
+    "Actores": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "url": "https://www.imdb.com/title/tt0120689/",
+    "genre": "Crime, Drama, Fantasy",
+    "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift."
+  },
+  {
+    "Título": "Cidade de Deus",
+    "Año": "2003-02-06",
+    "Calificación": 8.6,
+    "Duración (min)": 130,
+    "Metascore": "79",
+    "Actores": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "url": "https://www.imdb.com/title/tt0317248/",
+    "genre": "Crime, Drama",
+    "description": "In the slums of Rio, two kids&apos; paths diverge as one struggles to become a photographer and the other a kingpin."
+  },
+  {
+    "Título": "La vita è bella",
+    "Año": "1998-12-03",
+    "Calificación": 8.6,
+    "Duración (min)": 116,
+    "Metascore": "58",
+    "Actores": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "url": "https://www.imdb.com/title/tt0118799/",
+    "genre": "Comedy, Drama, Romance",
+    "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+  },
+  {
+    "Título": "Terminator 2: Judgment Day",
+    "Año": "1991-09-27",
+    "Calificación": 8.6,
+    "Duración (min)": 137,
+    "Metascore": "75",
+    "Actores": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "url": "https://www.imdb.com/title/tt0103064/",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg."
+  },
+  {
+    "Título": "Star Wars",
+    "Año": "1977-12-15",
+    "Calificación": 8.6,
+    "Duración (min)": 121,
+    "Metascore": "90",
+    "Actores": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "url": "https://www.imdb.com/title/tt0076759/",
+    "genre": "Action, Adventure, Fantasy",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire&apos;s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ..."
+  },
+  {
+    "Título": "Back to the Future",
+    "Año": "1985-12-12",
+    "Calificación": 8.5,
+    "Duración (min)": 116,
+    "Metascore": "87",
+    "Actores": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "url": "https://www.imdb.com/title/tt0088763/",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+  },
+  {
+    "Título": "Sen to Chihiro no kamikakushi",
+    "Año": "2003-04-24",
+    "Calificación": 8.6,
+    "Duración (min)": 124,
+    "Metascore": "96",
+    "Actores": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
+    "url": "https://www.imdb.com/title/tt0245429/",
+    "genre": "Animation, Adventure, Family",
+    "description": "During her family&apos;s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts."
+  },
+  {
+    "Título": "The Pianist",
+    "Año": "2002-11-28",
+    "Calificación": 8.5,
+    "Duración (min)": 150,
+    "Metascore": "85",
+    "Actores": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "url": "https://www.imdb.com/title/tt0253474/",
+    "genre": "Biography, Drama, Music",
+    "description": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+  },
+  {
+    "Título": "Gladiator",
+    "Año": "2000-05-18",
+    "Calificación": 8.5,
+    "Duración (min)": 155,
+    "Metascore": "67",
+    "Actores": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "url": "https://www.imdb.com/title/tt0172495/",
+    "genre": "Action, Adventure, Drama",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "Título": "Gisaengchung",
+    "Año": "2019-11-28",
+    "Calificación": 8.5,
+    "Duración (min)": 132,
+    "Metascore": "97",
+    "Actores": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "url": "https://www.imdb.com/title/tt6751668/",
+    "genre": "Drama, Thriller",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+    "Título": "Psycho",
+    "Año": "1960-12-23",
+    "Calificación": 8.5,
+    "Duración (min)": 109,
+    "Metascore": "97",
+    "Actores": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "url": "https://www.imdb.com/title/tt0054215/",
+    "genre": "Drama, Horror, Mystery",
+    "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother."
+  },
+  {
+    "Título": "The Lion King",
+    "Año": "1994-11-24",
+    "Calificación": 8.5,
+    "Duración (min)": 88,
+    "Metascore": "88",
+    "Actores": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "url": "https://www.imdb.com/title/tt0110357/",
+    "genre": "Animation, Adventure, Drama",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+  },
+  {
+    "Título": "Hotaru no haka",
+    "Año": "1988-04-16",
+    "Calificación": 8.5,
+    "Duración (min)": 88,
+    "Metascore": "94",
+    "Actores": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "url": "https://www.imdb.com/title/tt0095327/",
+    "genre": "Animation, Drama, War",
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II."
+  },
+  {
+    "Título": "The Departed",
+    "Año": "2006-11-09",
+    "Calificación": 8.5,
+    "Duración (min)": 151,
+    "Metascore": "85",
+    "Actores": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "url": "https://www.imdb.com/title/tt0407887/",
+    "genre": "Crime, Drama, Thriller",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+  },
+  {
+    "Título": "Whiplash",
+    "Año": "2014-11-13",
+    "Calificación": 8.5,
+    "Duración (min)": 106,
+    "Metascore": "89",
+    "Actores": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "url": "https://www.imdb.com/title/tt2582802/",
+    "genre": "Drama, Music",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student&apos;s potential."
+  },
+  {
+    "Título": "Seppuku",
+    "Año": "1962-09-16",
+    "Calificación": 8.6,
+    "Duración (min)": 133,
+    "Metascore": "85",
+    "Actores": [
+      "Tatsuya Nakadai",
+      "Akira Ishihama",
+      "Shima Iwashita"
+    ],
+    "url": "https://www.imdb.com/title/tt0056058/",
+    "genre": "Drama, Mystery",
+    "description": "When a ronin requesting seppuku at a feudal lord&apos;s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan&apos;s integrity."
+  },
+  {
+    "Título": "The Prestige",
+    "Año": "2007-02-08",
+    "Calificación": 8.5,
+    "Duración (min)": 130,
+    "Metascore": "66",
+    "Actores": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "url": "https://www.imdb.com/title/tt0482571/",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "description": "Rival 19th-century magicians engage in a bitter battle for trade secrets."
+  },
+  {
+    "Título": "American History X",
+    "Año": "1999-05-12",
+    "Calificación": 8.5,
+    "Duración (min)": 119,
+    "Metascore": "62",
+    "Actores": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D&apos;Angelo"
+    ],
+    "url": "https://www.imdb.com/title/tt0120586/",
+    "genre": "Crime, Drama",
+    "description": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his foot..."
+  },
+  {
+    "Título": "Léon",
+    "Año": "1995-02-23",
+    "Calificación": 8.5,
+    "Duración (min)": 110,
+    "Metascore": "64",
+    "Actores": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "url": "https://www.imdb.com/title/tt0110413/",
+    "genre": "Action, Crime, Drama",
+    "description": "An Italian hit man protects a New York orphan."
+  },
+  {
+    "Título": "Spider-Man: Across the Spider-Verse",
+    "Año": "2023-06-01",
+    "Calificación": 8.5,
+    "Duración (min)": 140,
+    "Metascore": "86",
+    "Actores": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry"
+    ],
+    "url": "https://www.imdb.com/title/tt9362722/",
+    "genre": "Animation, Action, Adventure",
+    "description": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads."
+  },
+  {
+    "Título": "Casablanca",
+    "Año": "1947-04-04",
+    "Calificación": 8.5,
+    "Duración (min)": 102,
+    "Metascore": "100",
+    "Actores": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "url": "https://www.imdb.com/title/tt0034583/",
+    "genre": "Drama, Romance, War",
+    "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+  },
+  {
+    "Título": "Nuovo Cinema Paradiso",
+    "Año": "1990-04-13",
+    "Calificación": 8.5,
+    "Duración (min)": 174,
+    "Metascore": "80",
+    "Actores": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "url": "https://www.imdb.com/title/tt0095765/",
+    "genre": "Drama, Romance",
+    "description": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater&apos;s film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema."
+  },
+  {
+    "Título": "The Usual Suspects",
+    "Año": "1996-02-01",
+    "Calificación": 8.5,
+    "Duración (min)": 106,
+    "Metascore": "76",
+    "Actores": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "url": "https://www.imdb.com/title/tt0114814/",
+    "genre": "Crime, Drama, Mystery",
+    "description": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup."
+  },
+  {
+    "Título": "Intouchables",
+    "Año": "2012-03-22",
+    "Calificación": 8.5,
+    "Duración (min)": 112,
+    "Metascore": "57",
+    "Actores": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "url": "https://www.imdb.com/title/tt1675434/",
+    "genre": "Comedy, Drama",
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+  },
+  {
+    "Título": "Alien",
+    "Año": "1979-10-25",
+    "Calificación": 8.5,
+    "Duración (min)": 117,
+    "Metascore": "89",
+    "Actores": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "url": "https://www.imdb.com/title/tt0078748/",
+    "genre": "Horror, Sci-Fi",
+    "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
+  },
+  {
+    "Título": "Modern Times",
+    "Año": "1936-03-27",
+    "Calificación": 8.5,
+    "Duración (min)": 87,
+    "Metascore": "96",
+    "Actores": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "url": "https://www.imdb.com/title/tt0027977/",
+    "genre": "Comedy, Drama, Romance",
+    "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+  }
+]
