@@ -1,0 +1,23 @@
+services:
+  tor:
+    build: ./tor
+    container_name: tor
+    ports:
+      - "9050:9050"
+    networks:
+      - tor_net
+
+  scraper:
+    build: ./scraper
+    container_name: scraper
+    depends_on:
+      - tor
+    networks:
+      - tor_net
+    entrypoint: ["sleep", "infinity"]  # para hacer pruebas interactivas
+
+networks:
+  tor_net:
+
+
+
