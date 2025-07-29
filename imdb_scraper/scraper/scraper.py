@@ -30,7 +30,7 @@ def get_top_movies():
     print("🔍 Obteniendo lista de películas...")
 
     try:
-        response = requests.get(IMDB_TOP_URL, headers=HEADERS, proxies=PROXIES, timeout=10)
+        response = requests.get(IMDB_TOP_URL, headers=HEADERS, proxies=PROXIES, timeout=40)
         print(f"✅ Código de estado: {response.status_code}")
     except Exception as e:
         print(f"❌ Error al acceder a IMDb: {e}")
